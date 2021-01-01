@@ -1,0 +1,31 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "email": "sacchetti.roberto@gmail.com",
+      "password": "51762d02925b654165214f8b1bd9440d",
+      "firstName": "Roberto",
+      "lastName": "Sacchetti"      
+    },
+    {
+      "id": 2,
+      "email": "adv.sacchetti.roberto@gmail.com",
+      "password": "51762d02925b654165214f8b1bd9440d",
+      "firstName": "Roberto",
+      "lastName": "Sacchetti"      
+    },
+    {
+      "id": 3,
+      "email": "advertisingsacchetti.roberto@gmail.com",
+      "password": "51762d02925b654165214f8b1bd9440d",
+      "firstName": "Roberto",
+      "lastName": "Sacchetti"      
+    },
+    {
+      "id": 4,
+      "email": "jacopocaparone99@gmail.com",
+      "password": "51762d02925b654165214f8b1bd9440d",
+      "firstName": "Jacopo",
+      "lastName": "Caparone"      
+    },
+}
